@@ -202,7 +202,7 @@ function draw() {
     textSize(50);
     text("Você errou a equação! Volte para o começo.", width/2, height/2);
     textSize(38);
-    text("Aperte espaço para reiniciar.", width/2, height-100);
+    text("Aperte o botão para reiniciar.", width/2, height-100);
   }
 
 
