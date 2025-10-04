@@ -17,7 +17,7 @@ let pontuacao = 0;
 
 
 let plataformas = [];
-let nivelAtual = 1;
+let nivelAtual = 5;
 
 
 function preload(){
